@@ -3,6 +3,16 @@
 A reusable and config-driven card payment form built with React and Vite.  
 The UI follows a dark premium theme and includes field-level formatting, validation, auto-focus flow, and submitted details preview.
 
+## UI Preview
+
+### Screenshot 1 - Payment Form
+
+![Payment Form Screenshot](./screenshots/payment-form.png)
+
+### Screenshot 2 - Submitted Details
+
+![Submitted Details Screenshot](./screenshots/submitted-details.png)
+
 ## What Is Implemented
 
 - Config-driven form rendering via `src/config/fieldConfig.js`
@@ -25,15 +35,6 @@ The UI follows a dark premium theme and includes field-level formatting, validat
 - Submit button enabled only when the full form is valid
 - Submitted details panel shown below form after successful submission
 
-## UI Preview
-
-### Screenshot 1 - Payment Form
-
-![Payment Form Screenshot](./screenshots/payment-form.png)
-
-### Screenshot 2 - Submitted Details
-
-![Submitted Details Screenshot](./screenshots/submitted-details.png)
 
 ## Project Structure
 
