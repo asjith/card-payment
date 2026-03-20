@@ -3,6 +3,14 @@
 A reusable and config-driven card payment form built with React and Vite.  
 The UI follows a dark premium theme and includes field-level formatting, validation, auto-focus flow, and submitted details preview.
 
+---
+
+## 🔗 Live Demo
+
+https://card-payment-three.vercel.app/
+
+---
+
 ## UI Preview
 
 ### Screenshot 1 - Payment Form
@@ -34,7 +42,6 @@ The UI follows a dark premium theme and includes field-level formatting, validat
 - Validation with clear error messages for all fields
 - Submit button enabled only when the full form is valid
 - Submitted details panel shown below form after successful submission
-
 
 ## Project Structure
 
